@@ -1,0 +1,9 @@
+[package]
+name = "gameboy-emulator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+minifb = "0.28.0"
+rodio = "0.17"
+cpal = "0.15"
